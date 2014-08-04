@@ -1,6 +1,6 @@
 header {
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
   background-color: rgba(109,173,109, 0.9);
 }
 
@@ -16,27 +16,30 @@ li {
   font-size: 24px;
   font-family:Arial;
   color: brown;
+  
 }
 
 #b1{
   border-style: solid;
   border-width: 2px;
   border-color: #019;
-  padding: 0px 60px 0px 60px;
+  padding: 0px 80px;
 }
 
 #b2{
   border-style: solid;
   border-width: 2px;
   border-color: #019;
-  padding: 0px 60px 0px 60px;
+  padding: 0px 80px;
+  margin-left: 5px
 }
 
 #b3{
   border-style: solid;
   border-width: 2px;
   border-color: #019;
-  padding: 0px 60px 0px 60px;
+  padding: 0px 80px;
+  margin-left: 5px
 }
 
 #div1 {
@@ -62,20 +65,24 @@ h3{
   font-family: Papyrus;
   font-size: 22px;
   color: brown;
+  margin-left: 225px;
+  margin-right: 225px
 }
 
 #f1{
-  padding: 0px 75px 0px 150px;
+  margin-left: 250px;
 }
 
 #f2{
-  padding: 0px 150px 0px 100px;
+  margin-left: 100px;
+  padding: 175px;
 }
 
 #f3 {
-  padding: 0px 150px 0px 75px;
+  margin-left 100px
 }
 
 h6 {
   text-align: center;
 }
+
